@@ -24,7 +24,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 The meeting will be held in person in Bristol, United Kingdom.
 
 ## Organizers: 
-[S. Fotopoulou](www.sotiriafotopoulou.com) & [C. Lovell](christopherlovell.co.uk)
+[S. Fotopoulou](https://sotiriafotopoulou.com) & [C. Lovell](https://christopherlovell.co.uk)
 
 sotiria.fotopoulou@bristol.ac.uk
 
