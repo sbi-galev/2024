@@ -24,7 +24,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 The meeting will be held in person in Bristol, United Kingdom.
 
 ## Organizers: 
-S. Fotopoulou & C. Lovell
+[S. Fotopoulou](sotiria.fotopoulou@bristol.ac.uk) & [C. Lovell](christopher.lovell@port.ac.uk)
 
 ## SOC: 
 * Johannes Buchner (MPE)
@@ -38,4 +38,5 @@ S. Fotopoulou & C. Lovell
 * Pablo Lemos (U Montreal)
 * Christoper Lovell (U Portsmouth; *co-chair*)
 * Lucas Makinen (Imperial College)
-* Yuan-sen Ting (ANU)Mike Walmsley (U Toronto)
+* Yuan-sen Ting (ANU)
+* Mike Walmsley (U Toronto)
