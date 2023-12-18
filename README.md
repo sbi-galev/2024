@@ -26,9 +26,7 @@ The meeting will be held in person in Bristol, United Kingdom.
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
 
-sotiria.fotopoulou@bristol.ac.uk
-
-christopher.lovell@port.ac.uk
+grp-sbi-galev-2024@groups.bristol.ac.uk
 
 ## SOC: 
 * Johannes Buchner (MPE)
