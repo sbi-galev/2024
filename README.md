@@ -6,7 +6,11 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 ## Abstract Submission
 
-[Submit your abstract here!](https://forms.office.com/e/tUE7LkTqrH)
+<s>Submit your abstract here!~</s> **Closed**
+
+## Registration
+
+[Register here](https://shop.bris.ac.uk/conferences-and-events/school-of-physics/sbi-workshops/simulation-based-inference-for-galaxy-evolution-2024)
 
 ## Important Dates:
 
@@ -14,7 +18,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 - Abstract submission deadline: 19 January 2024
 
-- Registration Opens: 31 January 2024
+- Registration Opens: 16 February 2024
 
 - Registration Deadline: 29 March 2024
 
