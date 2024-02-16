@@ -25,7 +25,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 - Workshop: 9 - 12 April 2024
 
 ## Location: 
-The meeting will be held in person in Bristol, United Kingdom.
+The meeting will be held in person in Bristol, United Kingdom.Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md)
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
