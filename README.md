@@ -1,4 +1,4 @@
-![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)
+[![sbi](https://raw.githubusercontent.com/sbi-galev/2024/main/sbi_banner.png)](https://sbi-galev.github.io/2024/)
 
 Inferring the physical parameters of galaxy populations from their observed properties is one of the key problems in galaxy evolution, and a necessary ingredient in many cosmological analyses. Typical approaches require an explicit or computable form of the likelihood, and significant computational resources. Simulation Based Inference (SBI) approaches circumvent this requirement, and when combined with machine learning methods, significantly reduce the computational cost of inference. Such approaches are necessary to process the millions to billions of sources from the latest generation of instruments. 
 
