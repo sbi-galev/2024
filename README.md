@@ -30,6 +30,10 @@ The meeting will be held in person in Bristol, United Kingdom.
 Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md).
 ## Programme
 
+<img src="programme.png">
+
+## Contriubtions
+<img src="contributions.png">
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
