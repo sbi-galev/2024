@@ -14,11 +14,11 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 ## Important Dates:
 
-- Abstract submission opens: 18 December 2023
+- <s>Abstract submission opens: 18 December 2023</s>
 
-- Abstract submission deadline: 19 January 2024
+- <s>Abstract submission deadline: 19 January 2024</s>
 
-- Registration Opens: 16 February 2024
+- <s>Registration Opens: 16 February 2024</s>
 
 - Registration Deadline: 29 March 2024
 
@@ -28,6 +28,8 @@ Simulation based inference is currently being applied to many astrophysical prob
 The meeting will be held in person in Bristol, United Kingdom.
 
 Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md).
+## Programme
+
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
