@@ -32,7 +32,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 
 <img src="programme.png">
 
-## Contriubtions
+## Contributions
 <img src="contributions.png">
 
 ## Organizers: 
