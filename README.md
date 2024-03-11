@@ -54,3 +54,12 @@ grp-sbi-galev-2024@groups.bristol.ac.uk
 * Lucas Makinen (Imperial College)
 * Yuan-sen Ting (ANU)
 * Mike Walmsley (U Toronto)
+
+## LOC:
+
+* Sotiria Fotopoulou
+* Chris Lovell
+* Matt Selwood
+* Grant Stevens
+* Teresa Matamoro Zatarin
+
