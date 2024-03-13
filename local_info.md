@@ -1,9 +1,10 @@
 # Local information
 
 The meeting will be held in the [School of Physics](https://maps.app.goo.gl/pR1JLSzCbQrYCA5v5), located very centrally, but uphill.
-
-
-
+We will use two rooms: 
+- Edenrby - ground floor (Tuesday, Thursday, Friday)
+- Berry - third flooe (Wednesday)
+  
 ## Travelling to Bristol
 If you are travelling from London, there is a fast train connection (1,5 - 2 hours) from London Paddington. The central train station is Bristol Temple Meads.
 
@@ -17,3 +18,11 @@ If you are travelling from USA, the easiest route is to get a connecting flight 
 You might want to book hotel accommodation early. There are airbnb accomodations close by.
 
 A close by hotel is The Berkley Square Hotel. If you are looking for an economical option, you might consider the Premier Inn, which is not listed on Booking.com.
+
+## Sights
+The landmark of the city is the [Clifton Suspension Bridge](https://cliftonbridge.org.uk/)https://cliftonbridge.org.uk/), built in 1835. You will also see river Avon, which has the second strongest tide in the world, reaching a height difference of 10m, almost everyday. A spot with a nice view can be reaching by using `Bristol BS8 4NW` on your gps.
+
+The [floating harbour](https://visitbristol.co.uk/your-visit/areas/harbourside/floating-harbour) is located centrally, and makes for a nice walk or run (~4.5km / 3 miles between the two briges).
+You'll also get to see [The Matthew](https://matthew.co.uk/), a replica of the Cabot's boat that crossed the Atlantic in 1497, and the SS Great Britain.
+
+Bristol is known for alternative artists, including Massive Attack, Portishead, and Banksy. You can take a [self-guided Banksy walking tour](https://visitbristol.co.uk/things-to-do/banksy-walking-tour-p1354013), the city is dotted with stauning murals from many local artists. 
