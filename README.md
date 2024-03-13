@@ -33,7 +33,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 <img src="programme.png">
 
 ## Contributions
-<img src="contributions.png">
+<img src="Contributions.png">
 
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
