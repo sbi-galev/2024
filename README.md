@@ -29,7 +29,7 @@ The meeting will be held in person in Bristol, United Kingdom.
 
 Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md).
 ## Programme
-
+[Abstract Booklet](SBI_2024-abstract-booklet.pdf)
 <img src="programme.png">
 
 ## Contributions
