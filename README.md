@@ -37,6 +37,31 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 
 <img src="Contributions.png">
 
+## Participants
+| Name | Affilication |
+| --- | --- |
+|	Adam Carnall	|	University of Edinburgh	|
+|	Anna Lena Schaible	|	Heidelberg University	|
+|	Charalampos Daoutis	|	University of Crete	|
+|	Chris Lovell	|	University of Portsmouth	|
+|	Dan Leonte	|	Imperial College London	|
+|	Dhruv Zimmerman	|	University of Florida	|
+|	Francisco Castander	|	ICE-CSIC, IEEC	|
+|	Francois Lanusse	|	Simons Foundation	|
+|	Grant Stevens	|	University of Bristol	|
+|	Hin Leung	|	University of St Andrews	|
+|	Joshua Williamson	|	University Collee London	|
+|	Marc Huertas-Company	|	Instituto de Astrofisica de Canarias	|
+|	Matt Selwood	|	University of Bristol	|
+|	Matthew Ho	|	Institut d'Astrophysique de Paris	|
+|	Niall Jeffrey	|	University Collee London	|
+|	Nicholas Boardman	|	University of St Andrews	|
+|	Patricia Iglesias-Navarro	|	Instituto Astrofisica de Canarias	|
+|	Sotiria Fotopoulou	|	University of Bristol	|
+|	Teresa Matamoro Zatarain	|	University of Bristol	|
+
+
+
 ## Organizers: 
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
 
@@ -63,5 +88,5 @@ grp-sbi-galev-2024@groups.bristol.ac.uk
 * Chris Lovell
 * Matt Selwood
 * Grant Stevens
-* Teresa Matamoro Zatarin
+* Teresa Matamoro Zatarain
 
