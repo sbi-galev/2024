@@ -44,13 +44,15 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Anna Lena Schaible	|	Heidelberg University	|
 |	Charalampos Daoutis	|	University of Crete	|
 |	Chris Lovell	|	University of Portsmouth	|
+| Dakshesh Kololgi | University College London |
 |	Dan Leonte	|	Imperial College London	|
 |	Dhruv Zimmerman	|	University of Florida	|
 |	Francisco Castander	|	ICE-CSIC, IEEC	|
 |	Francois Lanusse	|	Simons Foundation	|
 |	Grant Stevens	|	University of Bristol	|
 |	Hin Leung	|	University of St Andrews	|
-|	Joshua Williamson	|	University Collee London	|
+|	Joshua Williamson	|	University College London	|
+| Lucas Makinen | Imperial College London |
 |	Marc Huertas-Company	|	Instituto de Astrofisica de Canarias	|
 |	Matt Selwood	|	University of Bristol	|
 |	Matthew Ho	|	Institut d'Astrophysique de Paris	|
