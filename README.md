@@ -60,6 +60,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Nicholas Boardman	|	University of St Andrews	|
 |	Patricia Iglesias-Navarro	|	Instituto Astrofisica de Canarias	|
 |	Sotiria Fotopoulou	|	University of Bristol	|
+| Stephane Paltani | University of Geneva |
 |	Teresa Matamoro Zatarain	|	University of Bristol	|
 
 
