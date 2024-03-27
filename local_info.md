@@ -25,4 +25,4 @@ The landmark of the city is the [Clifton Suspension Bridge](https://cliftonbridg
 The [floating harbour](https://visitbristol.co.uk/your-visit/areas/harbourside/floating-harbour) is located centrally, and makes for a nice walk or run (~4.5km / 3 miles between the two briges).
 You'll also get to see [The Matthew](https://matthew.co.uk/), a replica of the Cabot's boat that crossed the Atlantic in 1497, and the SS Great Britain.
 
-Bristol is known for alternative artists, including Massive Attack, Portishead, and Banksy. You can take a [self-guided Banksy walking tour](https://visitbristol.co.uk/things-to-do/banksy-walking-tour-p1354013), the city is dotted with stauning murals from many local artists. 
+Bristol is known for alternative artists, including Massive Attack, Portishead, and Banksy. You can take a [self-guided Banksy walking tour](https://visitbristol.co.uk/things-to-do/banksy-walking-tour-p1354013), the city is dotted with stunning murals from many local artists. 
