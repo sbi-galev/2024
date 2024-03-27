@@ -56,7 +56,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Marc Huertas-Company	|	Instituto de Astrofisica de Canarias	|
 |	Matt Selwood	|	University of Bristol	|
 |	Matthew Ho	|	Institut d'Astrophysique de Paris	|
-|	Niall Jeffrey	|	University Collee London	|
+|	Niall Jeffrey	|	University College London	|
 |	Nicholas Boardman	|	University of St Andrews	|
 |	Patricia Iglesias-Navarro	|	Instituto Astrofisica de Canarias	|
 |	Sotiria Fotopoulou	|	University of Bristol	|
