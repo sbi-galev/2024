@@ -41,6 +41,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 | Name | Affilication |
 | --- | --- |
 |	Adam Carnall	|	University of Edinburgh	|
+| Alessio Spurio Mancini | Royal Holloway, University of London |
 |	Anna Lena Schaible	|	Heidelberg University	|
 |	Charalampos Daoutis	|	University of Crete	|
 |	Chris Lovell	|	University of Portsmouth	|
@@ -51,11 +52,16 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Francois Lanusse	|	Simons Foundation	|
 |	Grant Stevens	|	University of Bristol	|
 |	Hin Leung	|	University of St Andrews	|
+| Ioana Ciuca | Australian National University |
+| James Ray | University College London |
 |	Joshua Williamson	|	University College London	|
+| Kiyam Lin | University College London	|
+| Liam Parker | Flatiron Institute |
 | Lucas Makinen | Imperial College London |
 |	Marc Huertas-Company	|	Instituto de Astrofisica de Canarias	|
 |	Matt Selwood	|	University of Bristol	|
 |	Matthew Ho	|	Institut d'Astrophysique de Paris	|
+| Maximilian von Wietersheim-Kramsta | Durham University |
 |	Niall Jeffrey	|	University College London	|
 |	Nicholas Boardman	|	University of St Andrews	|
 |	Patricia Iglesias-Navarro	|	Instituto Astrofisica de Canarias	|
