@@ -53,6 +53,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Grant Stevens	|	University of Bristol	|
 |	Hin Leung	|	University of St Andrews	|
 | Ioana Ciuca | Australian National University |
+| Jack Simons | University of Bristol |
 | James Ray | University College London |
 |	Joshua Williamson	|	University College London	|
 | Kiyam Lin | University College London	|
@@ -65,6 +66,7 @@ Further local information is provided [here](https://github.com/sbi-galev/2024/b
 |	Niall Jeffrey	|	University College London	|
 |	Nicholas Boardman	|	University of St Andrews	|
 |	Patricia Iglesias-Navarro	|	Instituto Astrofisica de Canarias	|
+| Sophie Newman | University of Portsmouth |
 |	Sotiria Fotopoulou	|	University of Bristol	|
 | Stephane Paltani | University of Geneva |
 |	Teresa Matamoro Zatarain	|	University of Bristol	|
