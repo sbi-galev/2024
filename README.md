@@ -29,6 +29,8 @@ The meeting will be held in person at the School of Physics in Bristol, United K
 
 Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md).
 ## Programme
+Underlined participants are remote contributions.
+
 <img src="FINAL-PROGRAMME.png">
 
 ## Contributions
