@@ -10,7 +10,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 ## Registration
 
-[Register here](https://shop.bris.ac.uk/conferences-and-events/school-of-physics/sbi-workshops/simulation-based-inference-for-galaxy-evolution-2024)
+**Closed**
 
 ## Important Dates:
 
@@ -20,7 +20,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 
 - <s>Registration Opens: 16 February 2024</s>
 
-- Registration Deadline: 29 March 2024
+- <s>Registration Deadline: 29 March 2024</s>
 
 - Workshop: 9 - 12 April 2024
 
