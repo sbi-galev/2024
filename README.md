@@ -27,7 +27,7 @@ Simulation based inference is currently being applied to many astrophysical prob
 ## Location: 
 The meeting will be held in person at the School of Physics in Bristol, United Kingdom.
 
-Further local information is provided [here](https://github.com/sbi-galev/2024/blob/main/local_info.md).
+Further local information is provided [here](https://sbi-galev.github.io/2024/local_info.html).
 ## Programme
 Underlined participants are remote contributions.
 
@@ -79,6 +79,8 @@ Underlined participants are remote contributions.
 [S. Fotopoulou](https://www.sotiriafotopoulou.com) & [C. Lovell](http://www.christopherlovell.co.uk)
 
 grp-sbi-galev-2024@groups.bristol.ac.uk
+
+We expect all participants to abide by the meeting code of conduct, available [here](https://sbi-galev.github.io/2024/coc.html).
 
 ## SOC: 
 * Johannes Buchner (MPE)
