@@ -31,7 +31,7 @@ Further local information is provided [here](https://sbi-galev.github.io/2024/lo
 ## Programme
 Underlined participants are remote contributions.
 
-<img src="FINAL-PROGRAMME.png">
+<img src="FINAL_programme.png">
 
 ## Contributions
 
