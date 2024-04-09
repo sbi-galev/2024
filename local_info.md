@@ -2,8 +2,8 @@
 
 The meeting will be held in the [School of Physics](https://maps.app.goo.gl/pR1JLSzCbQrYCA5v5), located very centrally, but uphill.
 We will use two rooms: 
-- Edenrby - (B16) basement/ground floor (Tuesday, Thursday, Friday)
-- Berry - (3.21) third floor (Wednesday)
+- Enderby - (B16) basement/ground floor (Tuesday, Thursday, Friday)
+- 3rd floor seminar room - (3.34) (Wednesday)
   
 ## Travelling to Bristol
 If you are travelling from London, there is a fast train connection (1,5 - 2 hours) from London Paddington. The central train station is Bristol Temple Meads.
