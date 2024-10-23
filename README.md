@@ -4,6 +4,10 @@ Inferring the physical parameters of galaxy populations from their observed prop
 
 Simulation based inference is currently being applied to many astrophysical problems which face similar computing barriers. In this workshop, we aim to bring together both experts in SBI as well as galaxy evolution experts with SBI experience, to discuss problems and solutions faced when applying SBI to problems in galaxy evolution. This will be a small, focused meeting to enable plenty of time for discussion and practical sessions.
 
+**THANK YOU** to everyone who attended for such a fantastic week! We hope to see you all next year.
+
+![conference picture](20240411_110356.jpg)
+
 ## Abstract Submission
 
 <s>Submit your abstract here!~</s> **Closed**
